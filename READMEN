@@ -1,1 +1,1 @@
-
+En esta evidencia se desarrolló un ejercicio básico de autenticación de usuarios utilizando tecnologías de desarrollo web. Para el proyecto se utilizaron Node.js y Express.js para crear el servidor y manejar las peticiones, MySQL para almacenar el usuario y la contraseña, y React para diseñar una interfaz gráfica sencilla e interactiva.
