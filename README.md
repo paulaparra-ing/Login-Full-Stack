@@ -44,4 +44,15 @@ Contraseña: 123456
 
 Mediante las pruebas manuales realizadas fue posible comprobar el correcto funcionamiento de la integración entre el frontend, la API REST y la base de datos. El sistema logró validar adecuadamente las credenciales ingresadas y mostrar mensajes de autenticación exitosa o error según el resultado de la consulta realizada en MySQL.
 
-Como mejora futura, se podrán realizar pruebas adicionales utilizando Postman para validar de manera más detallada el comportamiento de la API REST y sus respuestas HTTP.
+
+
+
+
+**////////////Segunda parte, pruebas con Postman//////////////////**
+
+Metodo :  POST 
+url : http://localhost:3000/login
+
+Permite validar las credenciales del usuario consultando la base de datos MySQL.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e20c856e-2f0d-40ca-a850-51c2d0518612" />
